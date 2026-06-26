@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Privacy–Personalization Trade-offs in LLMs: The Impact of Stylometric Signal Reduction on User-Specific Text Generation"
+
+message: "If you use this repository, please cite our paper."
+
+authors:
+  - family-names: "Arefin"
+    given-names: "Muhammed Nazmul"
+  - family-names: "Hammad"
+    given-names: "Omar Jamal"
+
+repository-code: "https://github.com/NazmulArefin305/Privacy-personalization-llms"
+
+license: MIT
