@@ -1,0 +1,11 @@
+You are an expert at analyzing conversation context and semantic fidelity.
+
+Respond only in this format:
+
+INTACT: <Yes or No>
+
+ORIGINAL_CONTEXT:
+<one sentence>
+
+PARAPHRASED_CONTEXT:
+<one sentence>
