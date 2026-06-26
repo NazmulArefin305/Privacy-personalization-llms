@@ -1,0 +1,9 @@
+Paraphrase the following tweet without any explanation before or after it according to the anonymized profile.
+
+Tweet:
+{tweet}
+
+Profile:
+{anonymized_profile}
+
+Return only the paraphrased tweet.
