@@ -74,36 +74,49 @@ data/raw/
 
 ## Running the Experiments
 
-### Phase 1
+### 1. Privacy Risk Detection
 
 ```bash
-python src/p1_generate.py
+python notebooks/risk_detection.py
 ```
 
-### Phase 2
+### 2. Generate Personalized Paraphrases
+
+Using the original profile (P1):
 
 ```bash
-python src/p2_anonymize.py
+python notebooks/generate_paraphrase.py --profile original
 ```
 
-### Context Verification
+Using the anonymized profile (P3):
 
 ```bash
-python src/context_verify.py
+python notebooks/generate_paraphrase.py --profile anonymized
 ```
 
-### Phase 3
+### 3. Context Verification
 
 ```bash
-python src/p3_generate.py
+python notebooks/context_verification.py
 ```
 
-### Evaluation
+### 4. Evaluation (OpenAI)
 
 ```bash
-python src/evaluate.py
+python notebooks/evaluate_openai.py
 ```
 
+### 5. Evaluation (Gemini)
+
+```bash
+python notebooks/evaluate_gemini.py
+```
+
+### 6. Anonymization Analysis
+
+```bash
+jupyter notebook notebooks/anonymization_analysis.ipynb
+```
 ---
 
 ## Citation
