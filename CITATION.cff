@@ -1,7 +1,7 @@
 cff-version: 1.2.0
-title: "Privacy–Personalization Trade-offs in LLMs: The Impact of Stylometric Signal Reduction on User-Specific Text Generation"
+title: "Privacy--Personalization Trade-offs in LLMs: The Impact of Stylometric Signal Reduction on User-Specific Text Generation"
 
-message: "If you use this repository, please cite our paper."
+message: "If you use this repository, please cite the associated paper when it becomes available."
 
 authors:
   - family-names: "Arefin"
