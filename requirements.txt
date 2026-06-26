@@ -1,0 +1,15 @@
+anthropic
+openai
+google-generativeai
+transformers
+torch
+datasets
+evaluate
+rouge-score
+nltk
+pandas
+numpy
+matplotlib
+scikit-learn
+tqdm
+python-dotenv
