@@ -124,11 +124,10 @@ jupyter notebook notebooks/anonymization_analysis.ipynb
 If you use this work, please cite
 
 ```bibtex
-@article{Arefin2026,
-title={Privacy--Personalization Trade-offs in LLMs:
-The Impact of Stylometric Signal Reduction on User-Specific Text Generation},
-author={Muhammed Nazmul Arefin and Omar Jamal Hammad},
-journal={IEEE Access},
-year={2026}
+@misc{Arefin2026,
+  author = {Muhammed Nazmul Arefin and Omar Jamal Hammad},
+  title = {Privacy--Personalization Trade-offs in LLMs: The Impact of Stylometric Signal Reduction on User-Specific Text Generation},
+  year = {2026},
+  note = {Preprint. Citation will be updated upon publication.}
 }
 ```
