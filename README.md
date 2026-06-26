@@ -62,7 +62,7 @@ This work uses the **LaMP-7 benchmark**.
 
 Download it from
 
-https://lamp-benchmark.github.io/download
+[https://lamp-benchmark.github.io/download](https://lamp-benchmark.github.io/download)
 
 Place the files inside
 
